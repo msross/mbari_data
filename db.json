@@ -1,4 +1,14 @@
 {
+  "users": [
+    {
+      "id": 1,
+      "name": "Mike Ross"
+    },
+    {
+      "id": 2,
+      "name": "Jordan Ross"
+    }
+  ],
   "posts": [
     {
       "id": 1,
